@@ -1,0 +1,14 @@
+//
+//  Authentication.xcconfig
+//  Authentication
+//
+//  Created by EZen on 2025/04/18.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://developer.apple.com/documentation/xcode/adding-a-build-configuration-file-to-your-project
+
+INFOPLIST_KEY_NSFaceIDUsageDescription = App需要您的同意才能使用面容ID进行认证,是否允许?
+INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = App需要您的同意才能从相册中上传图片,是否允许?
+INFOPLIST_KEY_NSPhotoLibraryUsageDescription = App需要您的同意才能从相册中上传图片,是否允许?
+INFOPLIST_KEY_NSCameraUsageDescription = App需要您的同意才能使用相机拍摄图片,是否允许?
