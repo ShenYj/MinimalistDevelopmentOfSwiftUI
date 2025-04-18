@@ -2,7 +2,7 @@
 
 《SwiftUI极简开发》一书中的示例项目代码
 
-第七章: 开发一款：Note笔记“应用
+第七章: 开发一款“Note笔记“应用
 
 - List
 - State、Binding 双向绑定
@@ -20,3 +20,13 @@
 - Toggle、ColorPicker、Picker、Stepper
 - color scheme
 - AppStorage
+
+第十章: 网络请求:连接这个多彩的世界
+
+- AsyncImage
+
+第十一章: 架构设计: 深入浅出MVVM模式
+
+- TabView、Tab
+- ObservableObject、StateObject、Published
+- LazyGrid
