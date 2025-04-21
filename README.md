@@ -49,3 +49,16 @@
 - ActionSheet (Deprecated)
 
 > 对应demo：Authentication
+
+第十三章：数据存储：使用FileManager
+
+- init
+- EnvironmentObject
+
+> 对应demo：FileManager
+
+第十四章：开发一款“目标人生”应用
+
+
+
+> 对应demo：GoalLife
