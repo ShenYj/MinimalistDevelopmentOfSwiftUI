@@ -10,6 +10,17 @@
 		F7F31F422DB623CF000BFCFA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7F31F3F2DB623CF000BFCFA /* ContentView.swift */; };
 		F7F31F432DB623CF000BFCFA /* GoalLifeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7F31F402DB623CF000BFCFA /* GoalLifeApp.swift */; };
 		F7F31F442DB623CF000BFCFA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F7F31F3E2DB623CF000BFCFA /* Assets.xcassets */; };
+		F7F31F462DB626B8000BFCFA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F7F31F452DB626B8000BFCFA /* LaunchScreen.storyboard */; };
+		F7F31F492DB627DB000BFCFA /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7F31F482DB627DB000BFCFA /* OnboardingView.swift */; };
+		F7F31F4B2DB629BE000BFCFA /* OnboardingPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7F31F4A2DB629BE000BFCFA /* OnboardingPageView.swift */; };
+		F7F31F4D2DB62E1D000BFCFA /* CreateGoalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7F31F4C2DB62E1D000BFCFA /* CreateGoalView.swift */; };
+		F7F31F4F2DB63699000BFCFA /* Date+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7F31F4E2DB63699000BFCFA /* Date+Extensions.swift */; };
+		F7F31F532DB63C8E000BFCFA /* CoreData.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F7F31F512DB63C8E000BFCFA /* CoreData.xcdatamodeld */; };
+		F7F31F5A2DB63E1A000BFCFA /* Goal+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7F31F582DB63E1A000BFCFA /* Goal+CoreDataClass.swift */; };
+		F7F31F5B2DB63E1A000BFCFA /* Goal+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7F31F592DB63E1A000BFCFA /* Goal+CoreDataProperties.swift */; };
+		F7F31F5D2DB63E85000BFCFA /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7F31F5C2DB63E85000BFCFA /* Persistence.swift */; };
+		F7F31F5F2DB63FB2000BFCFA /* GoalViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7F31F5E2DB63FB2000BFCFA /* GoalViewModel.swift */; };
+		F7F31F622DB641BE000BFCFA /* GoalCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7F31F612DB641BE000BFCFA /* GoalCardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -17,6 +28,17 @@
 		F7F31F3E2DB623CF000BFCFA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F7F31F3F2DB623CF000BFCFA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F7F31F402DB623CF000BFCFA /* GoalLifeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoalLifeApp.swift; sourceTree = "<group>"; };
+		F7F31F452DB626B8000BFCFA /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		F7F31F482DB627DB000BFCFA /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		F7F31F4A2DB629BE000BFCFA /* OnboardingPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingPageView.swift; sourceTree = "<group>"; };
+		F7F31F4C2DB62E1D000BFCFA /* CreateGoalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateGoalView.swift; sourceTree = "<group>"; };
+		F7F31F4E2DB63699000BFCFA /* Date+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Extensions.swift"; sourceTree = "<group>"; };
+		F7F31F522DB63C8E000BFCFA /* CoreData.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreData.xcdatamodel; sourceTree = "<group>"; };
+		F7F31F582DB63E1A000BFCFA /* Goal+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Goal+CoreDataClass.swift"; sourceTree = "<group>"; };
+		F7F31F592DB63E1A000BFCFA /* Goal+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Goal+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		F7F31F5C2DB63E85000BFCFA /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
+		F7F31F5E2DB63FB2000BFCFA /* GoalViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoalViewModel.swift; sourceTree = "<group>"; };
+		F7F31F612DB641BE000BFCFA /* GoalCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoalCardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,11 +71,46 @@
 		F7F31F412DB623CF000BFCFA /* GoalLife */ = {
 			isa = PBXGroup;
 			children = (
+				F7F31F602DB63FBA000BFCFA /* ViewModel */,
+				F7F31F502DB63C39000BFCFA /* Model */,
+				F7F31F472DB6272F000BFCFA /* View */,
 				F7F31F3E2DB623CF000BFCFA /* Assets.xcassets */,
-				F7F31F3F2DB623CF000BFCFA /* ContentView.swift */,
+				F7F31F4E2DB63699000BFCFA /* Date+Extensions.swift */,
 				F7F31F402DB623CF000BFCFA /* GoalLifeApp.swift */,
+				F7F31F452DB626B8000BFCFA /* LaunchScreen.storyboard */,
 			);
 			path = GoalLife;
+			sourceTree = "<group>";
+		};
+		F7F31F472DB6272F000BFCFA /* View */ = {
+			isa = PBXGroup;
+			children = (
+				F7F31F3F2DB623CF000BFCFA /* ContentView.swift */,
+				F7F31F482DB627DB000BFCFA /* OnboardingView.swift */,
+				F7F31F4A2DB629BE000BFCFA /* OnboardingPageView.swift */,
+				F7F31F4C2DB62E1D000BFCFA /* CreateGoalView.swift */,
+				F7F31F612DB641BE000BFCFA /* GoalCardView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		F7F31F502DB63C39000BFCFA /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				F7F31F582DB63E1A000BFCFA /* Goal+CoreDataClass.swift */,
+				F7F31F592DB63E1A000BFCFA /* Goal+CoreDataProperties.swift */,
+				F7F31F5C2DB63E85000BFCFA /* Persistence.swift */,
+				F7F31F512DB63C8E000BFCFA /* CoreData.xcdatamodeld */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		F7F31F602DB63FBA000BFCFA /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				F7F31F5E2DB63FB2000BFCFA /* GoalViewModel.swift */,
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -94,11 +151,12 @@
 				};
 			};
 			buildConfigurationList = F7F31F2B2DB623C1000BFCFA /* Build configuration list for PBXProject "GoalLife" */;
-			developmentRegion = en;
+			developmentRegion = "zh-Hans";
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
+				"zh-Hans",
 			);
 			mainGroup = F7F31F272DB623C1000BFCFA;
 			minimizedProjectReferenceProxies = 1;
@@ -118,6 +176,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F7F31F442DB623CF000BFCFA /* Assets.xcassets in Resources */,
+				F7F31F462DB626B8000BFCFA /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -128,8 +187,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F7F31F5A2DB63E1A000BFCFA /* Goal+CoreDataClass.swift in Sources */,
+				F7F31F622DB641BE000BFCFA /* GoalCardView.swift in Sources */,
+				F7F31F5B2DB63E1A000BFCFA /* Goal+CoreDataProperties.swift in Sources */,
+				F7F31F492DB627DB000BFCFA /* OnboardingView.swift in Sources */,
+				F7F31F5F2DB63FB2000BFCFA /* GoalViewModel.swift in Sources */,
 				F7F31F422DB623CF000BFCFA /* ContentView.swift in Sources */,
+				F7F31F4B2DB629BE000BFCFA /* OnboardingPageView.swift in Sources */,
 				F7F31F432DB623CF000BFCFA /* GoalLifeApp.swift in Sources */,
+				F7F31F4D2DB62E1D000BFCFA /* CreateGoalView.swift in Sources */,
+				F7F31F4F2DB63699000BFCFA /* Date+Extensions.swift in Sources */,
+				F7F31F532DB63C8E000BFCFA /* CoreData.xcdatamodeld in Sources */,
+				F7F31F5D2DB63E85000BFCFA /* Persistence.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -335,6 +404,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		F7F31F512DB63C8E000BFCFA /* CoreData.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				F7F31F522DB63C8E000BFCFA /* CoreData.xcdatamodel */,
+			);
+			currentVersion = F7F31F522DB63C8E000BFCFA /* CoreData.xcdatamodel */;
+			path = CoreData.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = F7F31F282DB623C1000BFCFA /* Project object */;
 }

@@ -59,6 +59,6 @@
 
 第十四章：开发一款“目标人生”应用
 
-
+- 之前学习的SwiftUI 组件综合演练，并使用了 CoreData 持久化方案
 
 > 对应demo：GoalLife

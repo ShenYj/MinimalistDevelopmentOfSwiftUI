@@ -11,7 +11,7 @@ import SwiftUI
 struct GoalLifeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView(goalViewModel: GoalViewModel())
         }
     }
 }
